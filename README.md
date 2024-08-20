@@ -51,7 +51,15 @@ To get started with AI Trainer, follow these steps:
 
 ## Demo
 
-Include a screenshot or a GIF of the application in action here.
+![Screenshot 2024-08-20 114055](https://github.com/user-attachments/assets/be5d2e40-3860-4cf6-a3c5-fbaecb46b452)
+![Screenshot 2024-08-20 114338](https://github.com/user-attachments/assets/d25f84a9-3647-4fa0-bdc1-eff302288957)
+
+
+![WhatsApp Image 2024-08-20 at 11 28 59 AM](https://github.com/user-attachments/assets/817d22f4-9419-4d4d-87d3-fb2b79ded902)
+![WhatsApp Image 2024-08-20 at 11 28 58 AM (1)](https://github.com/user-attachments/assets/61554aa2-8eb2-41b9-b4e4-ba3a51ca35f7)
+![WhatsApp Image 2024-08-20 at 11 28 58 AM](https://github.com/user-attachments/assets/79e66031-86db-410f-babd-af0e9be154a5)
+![WhatsApp Image 2024-08-20 at 11 28 59 AM (1)](https://github.com/user-attachments/assets/e6fcbc78-ae17-4cee-8714-1c0355d01afc)
+
 
 ## Contributing
 
